@@ -1,0 +1,7 @@
+# Some text before main content.
+# Second line.
+# Third line.
+
+User-agent: *
+Disallow:
+Sitemap: https://www.solutions-blog.tech/sitemap-index.xml
